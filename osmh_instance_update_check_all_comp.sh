@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 # Define your root compartment OCID
-ROOT_COMPARTMENT_ID="ocid1.tenancy.oc1..aaaaaaaakxcj247rl2tyoc6bsmexmcnku6x6ze4p55lqfobmww2rnrjbksiq"
+ROOT_COMPARTMENT_ID="<tenancy_ocid>"
 
 # Function to recursively process compartments
 process_compartment() {
