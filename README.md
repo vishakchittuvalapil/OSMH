@@ -24,7 +24,7 @@ This repository contains a shell script to generate a consolidated report of man
 2.**Update Root Compartment OCID**:
 
 Open the script file (osmh_instance_update_check_all_comp.sh).
-Replace "ocid1.tenancy.oc1..aaa" with your root compartment OCID.
+Replace "<tenancy_ocid>" with your root compartment OCID.
 
 3. **Run the Script**:
    ./osmh_instance_update_check_all_comp.sh
