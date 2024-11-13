@@ -31,4 +31,4 @@ Replace "<tenancy_ocid>" with your root compartment OCID.
 
 4. **Output:**
    A file named **consolidated_report.csv** will be generated in the same directory.
-   Each row includes the Compartment name, instance details, and status information.
+   Each row includes the Compartment name, instance details, and status information.Refer the **consolidated_report.csv** attached in the gihub for reference of sample output.
