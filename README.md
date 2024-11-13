@@ -18,7 +18,7 @@ This repository contains a shell script to generate a consolidated report of man
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/osmh-managed-instances-report.git
+   git clone https://github.com/vishakchittuvalapil/OSMH.git
    cd osmh-managed-instances-report
 
 2.**Update Root Compartment OCID**:
